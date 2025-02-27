@@ -32,7 +32,10 @@
 }
 .card:hover
 {
-  transform: scale(1.05);
+  transform: scale(1.1);
+}
+.card{
+  transition: transform 0.9s;
 }
 .cartBlock {
   background-color: rgb(187, 229, 244);
