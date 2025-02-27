@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 90,
+      "img":"assets/images/1.PNG"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 45,
+      "img":"assets/images/2.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 50,
+      "img":"assets/images/3.PNG"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 60,
+      "img":"assets/images/4.PNG"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 35,
+      "img":"assets/images/5.PNG"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 25,
+      "img":"assets/images/6.PNG"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 60,
+      "img":"assets/images/1.PNG"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 35,
+      "img":"assets/images/2.PNG"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "desc": "description of the prodct description of the prodct description of the prodct description of the prodct",
+      "price": 25,
+      "img":"assets/images/4.PNG"
+    }
+  ]

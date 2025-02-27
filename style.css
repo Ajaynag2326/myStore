@@ -1,0 +1,74 @@
+*
+{
+  margin: 0;
+}
+.container {
+  margin: 0;
+}
+.header {
+  padding: 10px;
+  display: flex;
+  /* background-color: rgb(70, 103, 141); */
+  justify-content: space-between;
+}
+.productBlock {
+  background-color: rgb(211, 233, 248);
+}
+.row
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(88, 92, 109);
+}
+.box
+{
+  width: 400px;
+  height: 550px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 30px;
+}
+.cartBlock {
+  background-color: rgb(187, 229, 244);
+  width: 300px;
+  position: fixed;
+  top: 0px;
+  left: 100%;
+  height: 100%;
+  padding: 20px;
+  transition: 1s;
+}
+.login {
+  border: 1px solid black;
+  text-align: center;
+  padding: 100px;
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 300px;
+
+}
+
+.login input,button{
+  margin: 10px;
+  padding: 10px;
+}
+
+.registration {
+  border: 1px solid black;
+  text-align: center;
+  padding: 100px;
+  margin: 10px;
+
+}
+
+.registration input,button{
+  margin: 10px;
+  padding: 10px;
+}
+
+.menu li {
+  display: inline-block;
+  padding: 5px;
+}
