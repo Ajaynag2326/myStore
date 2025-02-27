@@ -30,6 +30,10 @@
   border-radius: 20px;
   padding: 30px;
 }
+.card:hover
+{
+  transform: scale(1.05);
+}
 .cartBlock {
   background-color: rgb(187, 229, 244);
   width: 300px;
